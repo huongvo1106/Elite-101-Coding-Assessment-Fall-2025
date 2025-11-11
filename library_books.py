@@ -1,4 +1,4 @@
-library_books = [
+LIBRARY_BOOKS = [
     {
         "id": "B1",
         "title": "The Lightning Thief",
